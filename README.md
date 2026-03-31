@@ -80,7 +80,7 @@ The project includes visualizations such as:
 ## Author
 
 **Anil S Paul**
-Aspiring Data Analyst | Python | SQL | Power BI
+ Data Analyst | Python | SQL | Power BI
 
 ---
 
